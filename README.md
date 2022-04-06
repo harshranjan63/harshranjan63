@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola! It's Harsh Ranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38px"></h1> 
-<h3 align="center">A passionate developer from India with ❤️ for open source contributions.</h3>
+<h3 align="center">A passionate developer from India .</h3>
 
 
 
