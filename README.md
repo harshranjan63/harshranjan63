@@ -1,5 +1,7 @@
 
-<h1 align="center">Hola! It's Harsh Ranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38px"></h1> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <h3 align="center">A passionate developer from India .</h3>
 
 
