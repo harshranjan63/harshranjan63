@@ -39,8 +39,6 @@
 - 💬 Ask me about programming languages & social media.
 - 😍 Hobbies:- Listening to music, coding and gaming .
 - 😄 Pronouns: He/His
-- 📫 How to reach me:
-- <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:harshranjan63@gmail.com)</a>  <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/harshranjan63/)</a> <a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/rudramadhabami1)</a><a>[<img src="https://img.icons8.com/fluent/40/000000/facebook-new.png"/>](https://www.facebook.com/harsh.ranjan.58367)</a> <a>[<img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>](https://www.instagram.com/harsh.ranjan.58367/)
 
 ---
   
