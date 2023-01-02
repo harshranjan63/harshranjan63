@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-<h3 align="center">A passionate developer from India .</h3>
+<h3 align="center">A passionate developer from India ![IndiaILoveIndiaGIF](https://user-images.githubusercontent.com/78690617/210213301-2ee601b0-499b-4b0c-93a1-0b9cf77984af.gif)
+.</h3>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
