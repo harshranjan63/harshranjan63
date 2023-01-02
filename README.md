@@ -23,5 +23,5 @@
 
 [![Harsh's github status](https://github-readme-status.vercel.app/api?username=harshranjan63&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudramadhaba)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshranjan63)](https://github.com/anuraghazra/github-readme-stats)
   
