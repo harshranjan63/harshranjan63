@@ -32,12 +32,11 @@
 
 ---
 
-- 🔭 I’m currently working on Full Stack development.
-- 🌱 I’m currently learning Express Js and practicing DSA in C++. 
-- 👯 I’m looking to collaborate on Backend Projects.
-- 🤔 I’m looking for help with Backend development.
-- 💬 Ask me about programming languages & social media.
-- 😍 Hobbies:- Listening to music, coding and gaming .
+- 🔭 I’m currently working on Cloud Security and Secret Managments.
+- 🌱 I’m currently learning GCP, AWS and MERN Stack.
+- 🤔 I’m looking for help with Devops.
+- 💬 Ask me about Cloud Computing and Backend Development.
+- 😍 Hobbies:- Travelling, Reading, Listening to music, and gaming .
 - 😄 Pronouns: He/His
 
 ---
